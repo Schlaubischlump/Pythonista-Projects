@@ -1,0 +1,75 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 40}, {240, 200}}",
+        "class" : "TableView",
+        "attributes" : {
+          "flex" : "WH",
+          "data_source_items" : "",
+          "frame" : "{{20, 20}, {200, 200}}",
+          "data_source_number_of_lines" : 1,
+          "class" : "TableView",
+          "uuid" : "6F9039EC-FCA9-4990-9358-A29420552D4C",
+          "data_source_delete_enabled" : false,
+          "data_source_font_size" : 12,
+          "name" : "tableview",
+          "row_height" : 44
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 0}, {120, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "flex" : "WR",
+          "action" : "scroll_up",
+          "image_name" : "iob:arrow_up_b_256",
+          "frame" : "{{80, 104}, {80, 32}}",
+          "title" : "🔼",
+          "uuid" : "E13EB4A4-46D1-4DCD-8767-8BE4DDE11764",
+          "class" : "Button",
+          "font_bold" : false,
+          "font_size" : 15,
+          "name" : "up"
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{120, 0}, {120, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "flex" : "WL",
+          "action" : "scroll_down",
+          "image_name" : "iob:arrow_down_b_256",
+          "frame" : "{{80, 104}, {80, 32}}",
+          "title" : "🔽",
+          "uuid" : "26438363-59F1-4E6E-A1E6-365DE9061192",
+          "class" : "Button",
+          "font_size" : 15,
+          "name" : "down"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {240, 240}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
