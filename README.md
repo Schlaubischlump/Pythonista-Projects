@@ -4,3 +4,5 @@ Private python projects I wrote for the [Pythonista iOS app](https://omz-softwar
 ## Projects
 ### Mensa:
 Shows the current food available in the [Mensa and Mens@ria Mainz](https://www.studierendenwerk-mainz.de/essentrinken/speiseplan/). 
+
+![Mensa-Widget Screenshot](Mensa/screenshot.png)
